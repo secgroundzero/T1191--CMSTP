@@ -10,9 +10,14 @@ This is just a self contained script to perform UAC bypass and then executed the
 
 https://attack.mitre.org/techniques/T1191/
 
-### Simply replace the payload parameter to the payload of your choice.
+#### Simply replace the payload parameter to the payload of your choice.
 
-### Warning - This script drops all the files in c:\Users\public\Downloads\ and hides them
+#### Warning - This script drops all the files in c:\Users\public\Downloads\ and hides them
+
+Ref:
+
+https://lolbas-project.github.io/lolbas/Binaries/Cmstp/
+
 
 ~ @sec_groundzero
 
